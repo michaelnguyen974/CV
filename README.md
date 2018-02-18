@@ -1,6 +1,6 @@
 ## Christopher Ly<br>[LinkedIn](https://www.linkedin.com/in/christopher-ly-83121619/) | [Twitter](https://twitter.com/fake_roogle)
 
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 I'm an aspiring full-stack junior developer looking to expand my current skillset and hone it further in software development.
 
@@ -41,6 +41,12 @@ I thrive under the throes of pressure, keeping a cool head and managing to maint
 I soon found my responsibilities rapidly expanding as staff turnover took its toll, needing to preform extra tasks such as bookkeeping to ensure there was no ambiguity with payments on top of maintaining my already existing responsibilities - a time sensitive role as we needed to ensure that the payments were posted by a certain time in case customers requested invoices for previous orders.
 
 These were all performed during a shift in where I was often the only person handling in-call inquiries, assisting our haulage staff with their deliveries, fulfilling customer orders, aiding customers in finding out any outstanding invoices or erroneous deliveries as well as passing through calls to appropriate departments. I feel that my strong sense of being able to prioritise what needs done and to ensure that everything gets seen through attributes to this skill.
+
+## Projects
+|Title | Description | Development Timeframe | Technologies | Testing |
+|--|--|--|--|--|
+| To | be | filled | in | ! |
+| To | be | filled | in | ! |
 
 ## Education
 

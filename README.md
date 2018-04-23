@@ -5,7 +5,7 @@
 I'm an aspiring full-stack junior developer looking to expand my current skillset and hone it further in software development.
 
 ## Projects
-|Title | Description | Development Timeframe | Technologies | Testing/CI/CD |
+|Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
 | [PinkFish (Facebook)](https://github.com/Hemesh-Unka/acebook-pinkFish) | In a group of five, we set off to create our interpretation of Facebook with an emphasis on focusing on learning as a group, its design driven by a plush toy of a pink fish found close to our desk. | 2 weeks | Ruby on Rails, HTML/CSS (Bootstrap), JavaScript, JQuery, PostgreSQL,  Heroku, AWS S3 Bucket | RSpec, Capybara, Travis, CodeClimate, Selenium-Webdriver (using headless Chrome) |
 | [Tasteless Notes](https://github.com/vivianallen/tastelessnotes) | A group of four christened 'The Tasteless Sheep' create a notes SPA - the caveat being we weren't allowed to use any frameworks. If we wanted to employ TDD, we had to build the test framework ourselves.  | 1 week | JavaScript | Tasteless Testing Suite  |
@@ -68,6 +68,8 @@ These were all performed during a shift in where I was often the only person han
 
 **Camseng International Foods Ltd.** (Belfast, N. Ireland): Jun 2015 - Feb 2018  
 *IT Support & Bookkeeper*
+
+**Professional Online Poker Player** (Various Locations): Aug 2012 - Nov 2014
 
 **Goldwind Science & Technology Co.** (Beijing, China): Sept 2010 - June 2011  
 *IT Support Intern*

@@ -1,16 +1,14 @@
-## Christopher Ly<br>[LinkedIn](https://www.linkedin.com/in/christopher-ly-83121619/) | [Twitter](https://twitter.com/fake_roogle)
+## Christopher Ly<br>[LinkedIn](https://www.linkedin.com/in/christopher-ly-83121619/) | [Medium](https://medium.com/@defc0none) | [Twitter](https://twitter.com/fake_roogle) 
 
-[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 I'm an aspiring full-stack junior developer looking to expand my current skillset and hone it further in software development.
 
-I graduated from university with a Computer Science degree. During my tenure as a student, I was accepted into my first technology role, an IT-support specialist at a wind turbine manufacturing company in Beijing, China.
-
-My foray into coding came completely by chance. A friend I'd met during my placement year was heading a new games development company and he needed as much manpower as he could acquire - previous experience was not an issue as long as they were willing to learn. Although I ended up pursuing a different job opportunity. I became enamoured with coding - far more than I'd ever been during my time in academia as I chose primarily IT modules over software development. Determined to foster this newfound interest, I began devouring resources online, honing my craft and putting in as much practice as I could to not just code itself but to also *think* like a programmer.
-
-Progressing through my adventure of programming lead me to discover Makers Academy. Doing research and talking with alumni, I took the plunge and enrolled, immersing myself for 12 weeks in an environment among like minded peers seeking to build a strong foundation as a software developer regardless of their previous backgrounds.
-
-With the skills and knowledge I seek to enquire within this rigorous course, I hope to be able to put my newfound ability into use, maintaining best practice principles for forward thinking and fast paced companies seeking to innovate and improve upon their product.
+## Projects
+|Title | Description | Development Timeframe | Technologies | Testing/CI/CD |
+|--|--|--|--|--|
+| [PinkFish (Facebook)](https://github.com/Hemesh-Unka/acebook-pinkFish) | In a group of five, we set off to create our interpretation of Facebook with an emphasis on focusing on learning as a group, its design driven by a plush toy of a pink fish found close to our desk. | 2 weeks | Ruby on Rails, HTML/CSS (Bootstrap), JavaScript, JQuery, PostgreSQL,  Heroku, AWS S3 Bucket | RSpec, Capybara, Travis, CodeClimate, Selenium-Webdriver (using headless Chrome) |
+| [Tasteless Notes](https://github.com/vivianallen/tastelessnotes) | A group of four christened 'The Tasteless Sheep' create a notes SPA - the caveat being we weren't allowed to use any frameworks. If we wanted to employ TDD, we had to build the test framework ourselves.  | 1 week | JavaScript | Tasteless Testing Suite  |
 
 ## Skills
 
@@ -42,23 +40,13 @@ I soon found my responsibilities rapidly expanding as staff turnover took its to
 
 These were all performed during a shift in where I was often the only person handling in-call inquiries, assisting our haulage staff with their deliveries, fulfilling customer orders, aiding customers in finding out any outstanding invoices or erroneous deliveries as well as passing through calls to appropriate departments. I feel that my strong sense of being able to prioritise what needs done and to ensure that everything gets seen through attributes to this skill.
 
-## Projects
-|Title | Description | Development Timeframe | Technologies | Testing |
-|--|--|--|--|--|
-| To | be | filled | in | ! |
-| To | be | filled | in | ! |
-
 ## Education
 
 #### Makers Academy (Feb 2018 - May 2018)
 
-- ~~Curious and passionate about code. [PROVIDE EVIDENCE]~~
-- ~~Fast, independent learner [PROVIDE EVIDENCE]~~
-- ~~Great collaborator [PROVIDE EVIDENCE]~~
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- A neverending curiousity for coding and new technologies
+- Learning, honing and maintaining best practices for coding (e.g. TDD, XP Values, Agile approach)
+- Always aiming to sharpen my toolset, crafting well-written, readable code
 
 #### University of Ulster, Jordanstown (2008 - 2012)
 
@@ -78,10 +66,10 @@ These were all performed during a shift in where I was often the only person han
 
 ## Experience
 
-**Camseng International Foods Ltd.** (Belfast, N. Ireland) Jun 2015 - Feb 2018  
+**Camseng International Foods Ltd.** (Belfast, N. Ireland): Jun 2015 - Feb 2018  
 *IT Support & Bookkeeper*
 
-**Goldwind Science & Technology Co.** (Beijing, China) Sept 2010 - June 2011  
+**Goldwind Science & Technology Co.** (Beijing, China): Sept 2010 - June 2011  
 *IT Support Intern*
 
 ## Interests

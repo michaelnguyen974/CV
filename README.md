@@ -1,4 +1,12 @@
-## Christopher Ly<br>[LinkedIn](https://www.linkedin.com/in/christopher-ly-83121619/) | [Medium](https://medium.com/@defc0none) | [Twitter](https://twitter.com/fake_roogle) 
+# Christopher Ly<br><p align="center">
+<a href="https://twitter.com/fake_roogle">
+<img src="http://goinkscape.com/wp-content/uploads/2015/07/twitter-logo-final.png" alt="twitter" hspace="50" height="42" width="42"></a>
+<a href="https://medium.com/@defc0nONE">
+<img src="https://static1.squarespace.com/static/53457bcae4b0bc890d496d14/t/568ebeee4bf118e7ef8dbef3/1452195567236/medium_logo_detail_icon.png?format=300w" alt="medium" hspace="50" height="42" width="42"></a>
+
+<a href="https://www.linkedin.com/in/christopher-ly-83121619/">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+</p>
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 

@@ -17,19 +17,19 @@ I'm an aspiring **full-stack Junior Developer** graduating from Makers Academy l
 
 Graduating from university in 2012, the following years led me in various paths — from the freedom granted to travel the world through online poker to an office environment with a wide spectrum of responsibilities. At my last place of employment, I began figuring out how to automate monotonous tasks to make my coworkers and my own life easier. An enjoyable experience, that was the catalyst into taking that skill-set further — thus beginning my journey in programming.
 
-Coming out of Makers Academy, I'm looking for a position in a company which shares my enthusiasm for pushing one's software craftsmanship, maintaining best coding practices and encouraging the desire to continue learning throughout. I would like to work for a forward thinking company that puts value and invests in their new developers, gradually shaping them to be assets for the projects they work on and developing tools that aid not only themselves but others that can use them, too.
+Coming out of Makers Academy, I'm looking for a position in a company which shares my enthusiasm for pushing one's software craftsmanship, maintaining best coding practices and encouraging the desire to continue learning throughout. I would like to work for a forward thinking company that invests in their new developers, gradually shaping them to be assets for the projects they work on and developing tools that aid not only themselves but others that can use them, too.
 
 # Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
-| [PinkFish (Facebook)](https://github.com/Hemesh-Unka/acebook-pinkFish) | Five rag tag individuals band together and set off to create our interpretation of Facebook with an emphasis on focusing on learning as a group, its design driven by a plush toy of a pink fish found close to our desk. | 2 weeks | Ruby on Rails, HTML/CSS (Bootstrap), JavaScript, JQuery, PostgreSQL,  Heroku, AWS S3 Bucket | RSpec, Capybara, Travis, CodeClimate, Selenium-Webdriver (using headless Chrome) |
+| [PinkFish (Facebook)](https://github.com/Hemesh-Unka/acebook-pinkFish) | Five rag tag individuals band together and set off to create our interpretation of Facebook with an emphasis on focusing on learning as a group. The site's design was driven by a plush toy of a pink fish found close to our desk. | 2 weeks | Ruby on Rails, HTML/CSS (Bootstrap), JavaScript, JQuery, PostgreSQL,  Heroku, AWS S3 Bucket | RSpec, Capybara, Travis, CodeClimate, Selenium-Webdriver (using headless Chrome) |
 | [Tasteless Notes](https://github.com/vivianallen/tastelessnotes) | A group of four christened 'The Tasteless Sheep' create a notes SPA - the caveat being we weren't allowed to use any frameworks. If we wanted to employ TDD, we had to build the test framework ourselves.  | 1 week |HTML/CSS, JavaScript | Tasteless Testing Suite  |
 
 # Skills
 
 ### Clean code advocate
 
-Makers Academy shaped and facilitated my want to be a purveyor of clean code — exercising principles such as SOLID and DRY, practicing usage of XP Values in group situations to ensure we were on the same wavelength, striking a fine balance between having an efficient and a readable codebase (for yourself as well as for others!) and using TDD/BDD to keep pesky bugs out of the way when that crafted code is pushed to production. 
+Makers Academy shaped and facilitated my want to be a purveyor of clean code. Exercising programming principles such as SOLID and DRY, practicing usage of XP Values in group situations to ensure we were on the same wavelength, striking a fine balance between having an efficient and a readable codebase (for yourself as well as for others!) and using TDD/BDD to keep pesky bugs out of the way when that crafted code is pushed to production. 
 
 I truly believe in this approach to programming and coding and hope to work with others that respect it as much as I do.
 
@@ -47,9 +47,11 @@ My experience at Goldwind, Camseng and now Makers Academy — all places which h
 
 ### Attention to detail
 
-Frequently, the devil is in the details and in software development, it's no different. Working in IT support, much like programming, when you're problem solving, it's important to ensure you have it broken down so that you ask the _right_ question in the quest for the _right_ solution.
+During my group project 'Tasteless Notes', progress was typically smooth but there would be brief periods where we would be collectively stumped. Taking a step back, I applied the rigorous debugging process I exercised on my own code to our group's.
 
-Sometimes, it's the even _smaller_ details like missing a semi-colon or a return keyword where it's not necessarily implicit. Through a workflow and debugging process I hold myself accountable to, I have a strong ability at taking a look at codebases whether it's my own or others I've never seen before, spotting issues that're preventing progression and working to move past said issues, continuing the problem solving adventure.
+One particular instance was when we were building our testing framework. We couldn't figure out why it was showing `undefined` instead of the pass/fail statements we'd built. Combing carefully through the code, I realised we were missing the `return` keyword - something implicitly implied in Ruby but not in JavaScript.
+
+Once added at the appropriate lines in our codebase, we tested and ran it once more. A collective jovial cheer erupted from our group as we achieved the desired result - outputs of our tests properly passing and failing with no `undefined` properties.
 
 # Education
 
@@ -80,7 +82,7 @@ Sometimes, it's the even _smaller_ details like missing a semi-colon or a return
 
 # Status
 
-I possess both a **United Kingdom** and **Irish** passport as a born citizen of Northern Ireland.
+A Northern Irish born citizen, I possess both a **United Kingdom** and **Irish** passport.
 
 # Interests
 

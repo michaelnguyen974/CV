@@ -2,7 +2,11 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
-I'm an aspiring full-stack junior developer looking to expand my current skillset and hone it further in software development.
+I'm an aspiring **full-stack Junior Developer** graduating from Makers Academy looking to further hone my skills in software development. With a technical academic background and an unconventional job history, it's led me to the world of coding — a craftsmanship which I find myself more excited with as time elapses, whether it's building cool apps, solving problems or adding another tool to my arsenal!
+
+# Background
+
+Graduating from university in 2012, the following years led me in various paths — from the freedom granted to travel the world through online poker to an unsuccessful foray into professional video gaming. At my last place of work, I began figuring out how to automate monotonous tasks to make my coworkers and my own life easier. An enjoyable problem solving experience, that was the catalyst into taking that skill-set further — thus beginning my journey in programming.
 
 ## Projects
 |Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |

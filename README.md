@@ -33,11 +33,11 @@ Makers Academy shaped and facilitated my want to be a purveyor of clean code. Ex
 
 I truly believe in this approach to programming and coding and hope to work with others that respect it as much as I do.
 
-### Adaptability / Hunger to learn
+### Adaptability
 
-From diving deep into an environment with a myriad of unfamiliarities, an unconventional profession where stagnation of one's progression of their skills can easily spell the end of your career or an office where my range of responsibilities frequently fluctuates, I find the initial discomfort energising and drives me to rise to the occasion. 
+I consider myself a highly adaptive individual able to adjust based on the situation.
 
-This love for venturing into the unknown has resulted in various experiences I've gained such as basic Mandarin proficiency in a short space of time, positive results for my tenure as a poker player, improving my soft skills as well as my technical side — and now taking those lessons with me and pushing the envelop when it comes to reaching my potential as a programmer solving problems.
+- Once I arrived to start my placement year in China with Goldwind, I found out during my onboarding process that I wasn't suited for the role they needed. Already settled and not keen on returning home empty handed, I asked my superior if there was a purpose I _could_ fill in the department. Noticing a communication issue with a different member of staff and an international intern, I inquired if it would be appropriate for me to take care of the English speaking staff and escalate if necessary. It turned out to be a fruitful endeavour, creating a role for myself where I could use the skills I had and providing relief for an understaffed IT team.
 
 ### Teamwork / Mediation
 
@@ -47,7 +47,7 @@ My experience at Goldwind, Camseng and now Makers Academy — all places which h
 
 ### Attention to detail
 
-During my group project 'Tasteless Notes', progress was typically smooth but there would be brief periods where we would be collectively stumped. Taking a step back, I applied the rigorous debugging process I exercised on my own code to our group's.
+During my group project 'Tasteless Notes', progress was smooth but there would be brief periods where we would be collectively stumped. Taking a step back, I applied the rigorous debugging process I exercised on my own code to our group's.
 
 One particular instance was when we were building our testing framework. We couldn't figure out why it was showing `undefined` instead of the pass/fail statements we'd built. Combing carefully through the code, I realised we were missing the `return` keyword - something implicitly implied in Ruby but not in JavaScript.
 

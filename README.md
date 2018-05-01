@@ -63,7 +63,7 @@ During my group project 'Tasteless Notes', we successfully built our own testing
     - Web Frameworks: Sinatra, Ruby on Rails, node.js/Express
     - Databases: PostgreSQL
     - Testing Suites: RSpec, Capybara, Selenium-Webdriver, Jasmine, Mocha, Chai
-    - Miscellaneous: Travis CI, CodeClimate, Heroku, AWS S3
+    - CI/CD: Travis CI, CodeClimate, Heroku, AWS S3
 
 #### University of Ulster, Jordanstown (2008 - 2012)
 

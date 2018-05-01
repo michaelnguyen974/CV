@@ -43,7 +43,7 @@ Once I arrived to start my placement year in China with Goldwind, I found out du
 
 I'm a true believer of the mantra that a productive team is one that can maintain the ability to work through the highs and the lows.
 
-For my first group project (recreating our rendition of AirBNB), we decided that the purpose of the week was to learn and to try to use new technologies. Morale fluctuated as we underestimated how difficult it would be to wrestle with these tech stacks. Running daily standups and retros, I ensured that our group kept our eyes on the objective we set when we started — our moods always better coming out of them than going in. I believe this helped us to keep focus of what we wanted out of the project and aided with the good cohesion that existed within the group, every minor conflict quickly talked about and sorted.
+For my first group project (recreating our rendition of AirBNB), we decided that the purpose of the week was to learn and to try to use new technologies. Morale fluctuated as we underestimated how difficult it would be to wrestle with these tech stacks. Running daily standups and retros, I ensured that our group kept our eyes on the objective we set when we started — our moods always better coming out of them than going in. I believe this helped us to keep focus of what we wanted out of the project whilst maintaining good group cohesion. Ultimately, at the end of the project, we came out deciding that we _did learn_ - hitting our objective.
 
 ### Attention to detail
 

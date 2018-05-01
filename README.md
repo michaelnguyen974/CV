@@ -37,7 +37,7 @@ I truly believe in this approach to programming and coding and hope to work with
 
 I consider myself a highly adaptive individual able to adjust based on the situation.
 
-- Once I arrived to start my placement year in China with Goldwind, I found out during my onboarding process that I wasn't suited for the role they needed. Already settled and not keen on returning home empty handed, I asked my superior if there was a purpose I _could_ fill in the department. Noticing a communication issue with a different member of staff and an international intern, I inquired if it would be appropriate for me to take care of the English speaking staff and escalate if necessary. It turned out to be a fruitful endeavour, creating a role for myself where I could use the skills I had and providing relief for an understaffed IT team.
+Once I arrived to start my placement year in China with Goldwind, I found out during my onboarding process that I wasn't suited for the role they needed. I asked my superior if there was a purpose I _could_ fill in the department. Noticing a communication issue with a different member of staff and an international intern, I inquired if it would be appropriate for me to take care of the English speaking staff and escalate if necessary. It turned out to be a fruitful endeavour, creating a role for myself where I could use the skills I had and providing relief for an understaffed IT team.
 
 ### Teamwork / Mediation
 

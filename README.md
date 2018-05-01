@@ -3,7 +3,7 @@
 <a href="https://twitter.com/fake_roogle">
 <img src="http://goinkscape.com/wp-content/uploads/2015/07/twitter-logo-final.png" alt="twitter" hspace="50" height="42" width="42"></a>
 <a href="https://medium.com/@defc0nONE">
-<img src="https://static1.squarespace.com/static/53457bcae4b0bc890d496d14/t/568ebeee4bf118e7ef8dbef3/1452195567236/medium_logo_detail_icon.png?format=300w" alt="medium" hspace="50" height="42" width="42"></a>
+<img src="http://www.webmasto.com/wp-content/uploads/2017/08/Medium-App-Icon-2017.png" alt="medium" hspace="50" height="42" width="42"></a>
 
 <a href="https://www.linkedin.com/in/christopher-ly-83121619/">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
@@ -11,13 +11,13 @@
 
 [Background](#background) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Status](#status) | [Interests](#interests)
 
-I'm an aspiring **full-stack Junior Developer** graduating from Makers Academy looking to further hone my skills in software development. With a technical academic background and an unconventional job history, it's led me to the world of coding — a craft which I find myself more excited with as time elapses, whether it's building useful apps, experimenting with new languages, solving problems or adding another tool to my programming arsenal!
+I'm an aspiring **full-stack Junior Developer** graduating from Makers Academy looking to further hone my skills in software development. With a technical academic background and an unconventional job history, it's led me to the world of coding — a craft which I find myself more excited with as time elapses. 
 
 # Background
 
 Graduating from university in 2012, the following years led me in various paths — from the freedom granted to travel the world through online poker to an office environment with a wide spectrum of responsibilities. At my last place of employment, I began figuring out how to automate monotonous tasks to make my coworkers and my own life easier. An enjoyable experience, that was the catalyst into taking that skill-set further — thus beginning my journey in programming.
 
-Coming out of Makers Academy, I'm looking for a position in a company which shares my enthusiasm for pushing one's software craftsmanship.
+Coming out of Makers Academy, I'm looking for a position in a company which shares my enthusiasm for pushing one's software craftsmanship and maintaining best practices. 
 
 # Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
@@ -56,8 +56,14 @@ During my group project 'Tasteless Notes', we successfully built our own testing
 #### Makers Academy (Feb 2018 - May 2018)
 
 - A neverending curiousity for coding and new technologies
-- Learning, honing and maintaining best practices for coding (e.g. TDD, XP Values, Agile approach)
 - Always aiming to sharpen my toolset & craft well-written, readable code
+- Learning, honing and maintaining best practices for coding (e.g. TDD, XP Values, Agile approach)
+    
+    - Languages: Ruby, JavaScript (and jQuery), HTML/CSS
+    - Web Frameworks: Sinatra, Ruby on Rails, node.js/Express
+    - Databases: PostgreSQL
+    - Testing Suites: RSpec, Capybara, Selenium-Webdriver, Jasmine, Mocha, Chai
+    - Miscellaneous: Travis CI, CodeClimate, Heroku, AWS S3
 
 #### University of Ulster, Jordanstown (2008 - 2012)
 
@@ -84,7 +90,7 @@ A Northern Irish born citizen, I possess both a **United Kingdom** and **Irish**
 
 # Interests
 
-* Exercise - A strong belief that a healthy body is directly related to a healthy mind, I train frequently to keep myself in shape. Mostly partial to weightlifting/powerlifting but I enjoy a wide variety of exercise such as running, parkour and yoga as well.
+* Exercise - A strong belief that a healthy body is directly related to a healthy mind, I train frequently to keep myself in shape. Mostly partial to weightlifting/powerlifting but I enjoy a wide variety of exercise.
 * Travelling/Exploring - An urban heart by nature, I love travelling to countries and cities I've never been before, getting lost in the streets and absorbing its culture in the midst of it all.
-* Learning languages - With learning Mandarin on my placement year, I found I enjoy the process of learning new languages and strive to continue doing so when times allowed.
+* Learning languages - With learning Mandarin on my placement year, I found I enjoy the process of learning new languages and strive to continue doing so when times allowed with a focus on Japanese and Vietnamese in my spare time.
 * Playing fighting games on a competitive level (Street Fighter, Tekken) - A more niche hobby, it has introduced more than just a craving to sate my competitive desire in video games: new friends with a common interest and travelling around the world to not only compete but experience new cultures which I might not have otherwise.

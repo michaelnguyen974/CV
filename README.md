@@ -17,7 +17,7 @@ I'm an aspiring **full-stack Junior Developer** graduating from Makers Academy l
 
 Graduating from university in 2012, the following years led me in various paths — from the freedom granted to travel the world through online poker to an office environment with a wide spectrum of responsibilities. At my last place of employment, I began figuring out how to automate monotonous tasks to make my coworkers and my own life easier. An enjoyable experience, that was the catalyst into taking that skill-set further — thus beginning my journey in programming.
 
-Coming out of Makers Academy, I'm looking for a position in a company which shares my enthusiasm for pushing one's software craftsmanship, maintaining best coding practices and encouraging the desire to continue learning throughout. I would like to work for a forward thinking company that invests in their new developers, gradually shaping them to be assets for the projects they work on and developing tools that aid not only themselves but others that can use them, too.
+Coming out of Makers Academy, I'm looking for a position in a company which shares my enthusiasm for pushing one's software craftsmanship.
 
 # Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
@@ -41,9 +41,9 @@ Once I arrived to start my placement year in China with Goldwind, I found out du
 
 ### Teamwork / Mediation
 
-A true believer of the mantra that a productive team is one that can maintain the ability to work through the highs and the lows, I'm proactive with feedback and always attempt to dispel any friction between team members I work with through my empathetic ability and holding civil discussion — hopefully bearing fruit by compromising at the very least; ideally an agreeable solution altogether. 
+I'm a true believer of the mantra that a productive team is one that can maintain the ability to work through the highs and the lows.
 
-My experience at Goldwind, Camseng and now Makers Academy — all places which have such a broad spectrum of personalities — has aided immensely in sharpening up my soft skills. As a generally amicable person, I have a strong ability to facilitate and mend misunderstandings or give a team member a shoulder to lean on if there are personal issues outside of a professional environment that is disrupting them.
+For my first group project (recreating our rendition of AirBNB), we decided that the purpose of the week was to learn and to try to use new technologies. Morale fluctuated as we underestimated how difficult it would be to wrestle with these tech stacks. Running daily standups and retros, I ensured that our group kept our eyes on the objective we set when we started — our moods always better coming out of them than going in. I believe this helped us to keep focus of what we wanted out of the project and aided with the good cohesion that existed within the group, every minor conflict quickly talked about and sorted.
 
 ### Attention to detail
 
@@ -57,7 +57,7 @@ During my group project 'Tasteless Notes', we successfully built our own testing
 
 - A neverending curiousity for coding and new technologies
 - Learning, honing and maintaining best practices for coding (e.g. TDD, XP Values, Agile approach)
-- Always aiming to sharpen my toolset, crafting well-written, readable code
+- Always aiming to sharpen my toolset & craft well-written, readable code
 
 #### University of Ulster, Jordanstown (2008 - 2012)
 

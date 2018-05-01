@@ -47,11 +47,9 @@ My experience at Goldwind, Camseng and now Makers Academy — all places which h
 
 ### Attention to detail
 
-During my group project 'Tasteless Notes', progress was smooth but there would be brief periods where we would be collectively stumped. Taking a step back, I applied the rigorous debugging process I exercised on my own code to our group's.
+I pride myself in ensuring that my craft is high quality and as error free as can be.
 
-One particular instance was when we were building our testing framework. We couldn't figure out why it was showing `undefined` instead of the pass/fail statements we'd built. Combing carefully through the code, I realised we were missing the `return` keyword - something implicitly implied in Ruby but not in JavaScript.
-
-Once added at the appropriate lines in our codebase, we tested and ran it once more. A collective jovial cheer erupted from our group as we achieved the desired result - outputs of our tests properly passing and failing with no `undefined` properties.
+During my group project 'Tasteless Notes', we successfully built our own testing framework but couldn't figure out how to output our pass/fail messages. Initially, we managed to come up with a workaround — but the original issue still surfaced with each message. Combing through our codebase and searching online for information, I noticed we weren't `return`ing the messages; implicitly implied in Ruby, not so in JavaScript. Amending this small keyword displayed our test results beautifully and allowed us to progress with peace of mind knowing we'd tackled the problem correctly.
 
 # Education
 

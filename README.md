@@ -22,6 +22,7 @@ Coming out of Makers Academy, I'm looking for a position in a company which shar
 # Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
+| [CodeCraft](https://github.com/KTSE-2018/KTSE) | Completely indoctrinated by the course, my final project group created a bootcamp survival simulation game. Wanting to learn how to build it from the ground up, we didn't use any game frameworks and used TDD to build our own game logic. | 2 weeks | JavaScript, JQuery, HTML/CSS, Heroku | Mocha, Chai, Sinon |
 | [PinkFish (Facebook)](https://github.com/Hemesh-Unka/acebook-pinkFish) | Five rag tag individuals band together and set off to create our interpretation of Facebook with an emphasis on focusing on learning as a group. The site's design was driven by a plush toy of a pink fish found close to our desk. | 2 weeks | Ruby on Rails, HTML/CSS (Bootstrap), JavaScript, JQuery, PostgreSQL,  Heroku, AWS S3 Bucket | RSpec, Capybara, Travis, CodeClimate, Selenium-Webdriver (using headless Chrome) |
 | [Tasteless Notes](https://github.com/vivianallen/tastelessnotes) | A group of four christened 'The Tasteless Sheep' create a notes SPA - the caveat being we weren't allowed to use any frameworks. If we wanted to employ TDD, we had to build the test framework ourselves.  | 1 week |HTML/CSS, JavaScript | Tasteless Testing Suite  |
 
@@ -62,7 +63,7 @@ During my group project 'Tasteless Notes', we successfully built our own testing
     - Languages: Ruby, JavaScript (and jQuery), HTML/CSS
     - Web Frameworks: Sinatra, Ruby on Rails, node.js/Express
     - Databases: PostgreSQL
-    - Testing Suites: RSpec, Capybara, Selenium-Webdriver, Jasmine, Mocha, Chai
+    - Testing Suites: RSpec, Capybara, Selenium-Webdriver, Jasmine, Mocha, Chai, Sinon
     - CI/CD: Travis CI, CodeClimate, Heroku, AWS S3
 
 #### University of Ulster, Jordanstown (2008 - 2012)

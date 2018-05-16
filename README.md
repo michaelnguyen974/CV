@@ -11,6 +11,8 @@
 
 [Background](#background) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Status](#status) | [Interests](#interests)
 
+E-mail address: demedial@gmail.com
+
 I'm an aspiring **full-stack Junior Developer** graduating from Makers Academy looking to further hone my skills in software development. With a technical academic background and an unconventional job history, it's led me to the world of coding — a craft which I find myself more excited with as time elapses. 
 
 # Background

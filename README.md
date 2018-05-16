@@ -1,4 +1,4 @@
-# Christopher Ly<br>
+# Christopher Ly (demedial@gmail.com)<br>
 <p align="center">
 <a href="https://twitter.com/fake_roogle">
 <img src="http://goinkscape.com/wp-content/uploads/2015/07/twitter-logo-final.png" alt="twitter" hspace="50" height="42" width="42"></a>
@@ -10,8 +10,6 @@
 
 
 [Background](#background) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Status](#status) | [Interests](#interests)
-
-E-mail address: demedial@gmail.com
 
 I'm an aspiring **full-stack Junior Developer** graduating from Makers Academy looking to further hone my skills in software development. With a technical academic background and an unconventional job history, it's led me to the world of coding — a craft which I find myself more excited with as time elapses. 
 

@@ -11,13 +11,11 @@
 
 [Background](#background) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Status](#status) | [Interests](#interests)
 
-I'm an aspiring **full-stack Junior Developer** graduating from Makers Academy looking to further hone my skills in software development. With a technical academic background and an unconventional job history, it's led me to the world of coding — a craft which I find myself more excited with as time elapses. 
+A alumnus of [Makers](https://makers.tech/), I'm a **full-stack Software Engineer** currently honing my craft at [Spektrix](https://www.spektrix.com/). With a technical academic background and an unconventional job history, it's led me to the world of coding — a craft which I find myself more excited with as time elapses. 
 
 # Background
 
 Graduating from university in 2012, the following years led me in various paths — from the freedom granted to travel the world through online poker to an office environment with a wide spectrum of responsibilities. At my last place of employment, I began figuring out how to automate monotonous tasks to make my coworkers and my own life easier. An enjoyable experience, that was the catalyst into taking that skill-set further — thus beginning my journey in programming.
-
-Coming out of Makers Academy, I'm looking for a position in a company which shares my enthusiasm for pushing one's software craftsmanship and maintaining best practices. 
 
 # Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |

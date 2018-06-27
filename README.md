@@ -9,7 +9,7 @@
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
 
 
-[Background](#background) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Status](#status) | [Interests](#interests)
+[Background](#background) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Status](#status) | [Interests](#interests)
 
 I'm an aspiring **full-stack Junior Developer** graduating from Makers Academy looking to further hone my skills in software development. With a technical academic background and an unconventional job history, it's led me to the world of coding — a craft which I find myself more excited with as time elapses. 
 
@@ -52,6 +52,19 @@ I pride myself in ensuring that my craft is high quality and as error free as ca
 
 During my group project 'Tasteless Notes', we successfully built our own testing framework but couldn't figure out how to output our pass/fail messages. Initially, we managed to come up with a workaround — but the original issue still surfaced with each message. Combing through our codebase and searching online for information, I noticed we weren't `return`ing the messages; implicitly implied in Ruby, not so in JavaScript. Amending this small keyword displayed our test results beautifully and allowed us to progress with peace of mind knowing we'd tackled the problem correctly.
 
+# Experience
+
+**Spektrix** (London, England): Jun 2018 - Present  
+*Software Engineer*
+
+**Camseng International Foods Ltd.** (Belfast, N. Ireland): Jun 2015 - Feb 2018  
+*IT Support & Bookkeeper*
+
+**Professional Online Poker Player** (Various Locations): Aug 2012 - Nov 2014
+
+**Goldwind Science & Technology Co.** (Beijing, China): Sept 2010 - June 2011  
+*IT Support Intern*
+
 # Education
 
 #### Makers Academy (Feb 2018 - May 2018)
@@ -74,16 +87,6 @@ During my group project 'Tasteless Notes', we successfully built our own testing
 #### University of Ulster, Jordanstown (2007 - 2008)
 
 - Foundation Year - Diploma in Industrial Studies — passed with Merit
-
-# Experience
-
-**Camseng International Foods Ltd.** (Belfast, N. Ireland): Jun 2015 - Feb 2018  
-*IT Support & Bookkeeper*
-
-**Professional Online Poker Player** (Various Locations): Aug 2012 - Nov 2014
-
-**Goldwind Science & Technology Co.** (Beijing, China): Sept 2010 - June 2011  
-*IT Support Intern*
 
 # Status
 

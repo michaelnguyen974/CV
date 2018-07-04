@@ -28,7 +28,7 @@ Graduating from university in 2012, the following years led me in various paths 
 
 ### Clean code advocate
 
-Makers Academy shaped and facilitated my want to be a purveyor of clean code. Exercising programming principles such as SOLID and DRY, practicing usage of XP Values in group situations to ensure we were on the same wavelength, striking a fine balance between having an efficient and a readable codebase (for yourself as well as for others!) and using TDD/BDD to keep pesky bugs out of the way when that crafted code is pushed to production. 
+Makers shaped and facilitated my want to be a purveyor of clean code. Exercising programming principles such as SOLID and DRY, practicing usage of XP Values in group situations to ensure we were on the same wavelength, striking a fine balance between having an efficient and a readable codebase (for yourself as well as for others!) and using TDD/BDD to keep pesky bugs out of the way when that crafted code is pushed to production. 
 
 I truly believe in this approach to programming and coding and hope to work with others that respect it as much as I do.
 
@@ -65,7 +65,7 @@ During my group project 'Tasteless Notes', we successfully built our own testing
 
 # Education
 
-#### Makers Academy (Feb 2018 - May 2018)
+#### Makers (Feb 2018 - May 2018)
 
 - A neverending curiousity for coding and new technologies
 - Always aiming to sharpen my toolset & craft well-written, readable code

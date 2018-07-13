@@ -11,7 +11,7 @@
 
 [Background](#background) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Status](#status) | [Interests](#interests)
 
-A alumnus of [Makers](https://makers.tech/), I'm a **full-stack Software Engineer** currently honing my craft at [Spektrix](https://www.spektrix.com/). With a technical academic background and an unconventional job history, it's led me to the world of coding — a craft which I find myself more excited with as time elapses. 
+An alumnus of [Makers](https://makers.tech/), I'm a **full-stack Software Engineer** currently honing my craft at [Spektrix](https://www.spektrix.com/). With a technical academic background and an unconventional job history, it's led me to the world of coding — a craft which I find myself more excited with as time elapses. 
 
 # Background
 

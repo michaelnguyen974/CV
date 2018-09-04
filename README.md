@@ -1,4 +1,4 @@
-<h1 align="center">Christopher Ly<h1>
+<h1 align="center">Christopher Ly</h1>
 <p align="center">
 <a href="https://twitter.com/fake_roogle">
 <img src="http://goinkscape.com/wp-content/uploads/2015/07/twitter-logo-final.png" alt="twitter" hspace="50" height="42" width="42"></a>
@@ -96,7 +96,7 @@ During my group project 'Tasteless Notes', we successfully built our own testing
 
 # Interests
 
-* Exercise - A strong belief that a healthy body is directly related to a healthy mind, I train frequently to keep myself in shape. Mostly partial to weightlifting/powerlifting but I enjoy a wide variety of exercise.
-* Travelling/Exploring - An urban heart by nature, I love travelling to countries and cities I've never been before, getting lost in the streets and absorbing its culture in the midst of it all.
-* Learning languages - With learning Mandarin on my placement year, I found I enjoy the process of learning new languages and strive to continue doing so when time allows with a focus on Japanese and Vietnamese in my spare time.
-* Playing fighting games on a competitive level (Street Fighter, Tekken) - A more niche hobby, it has introduced more than just a craving to sate my competitive desire in video games: new friends with a common interest and travelling around the world to not only compete but experience new cultures which I might not have otherwise. 
+* Exercise - Primarily into powerlifting, I also enjoy yoga, climbing and parkour.
+* Travelling/Exploring
+* Learning languages
+* Playing fighting games on a competitive level (Street Fighter, Tekken)

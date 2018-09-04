@@ -1,4 +1,4 @@
-# Christopher Ly (demedial@gmail.com)<br>
+<h1 align="center">Christopher Ly<h1>
 <p align="center">
 <a href="https://twitter.com/fake_roogle">
 <img src="http://goinkscape.com/wp-content/uploads/2015/07/twitter-logo-final.png" alt="twitter" hspace="50" height="42" width="42"></a>

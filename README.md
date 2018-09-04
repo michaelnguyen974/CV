@@ -8,8 +8,16 @@
 <a href="https://www.linkedin.com/in/christopher-ly-83121619/">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
 
+<div align="center">
+    
+[Background ](#background) | 
+[Projects ](#projects) | 
+[Skills ](#skills) | 
+[Experience ](#experience) | 
+[Education ](#education) | 
+[Interests ](#interests)
 
-[Background](#background) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Status](#status) | [Interests](#interests)
+</div>
 
 An alumnus of [Makers](https://makers.tech/), I'm a **full-stack Software Engineer** currently honing my craft at [Spektrix](https://www.spektrix.com/). With a technical academic background and an unconventional job history, it's led me to the world of coding — a craft which I find myself more excited with as time elapses. 
 
@@ -85,10 +93,6 @@ During my group project 'Tasteless Notes', we successfully built our own testing
 #### University of Ulster, Jordanstown (2007 - 2008)
 
 - Foundation Year - Diploma in Industrial Studies — passed with Merit
-
-# Status
-
-A Northern Irish born citizen, I possess both a **United Kingdom** and **Irish** passport.
 
 # Interests
 

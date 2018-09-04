@@ -97,6 +97,6 @@ During my group project 'Tasteless Notes', we successfully built our own testing
 # Interests
 
 * Exercise - Primarily into powerlifting, I also enjoy yoga, climbing and parkour.
-* Travelling/Exploring
-* Learning languages
+* Travelling/Exploring - Love travelling to new places, though I prefer exploring condensed urban spaces to the wild 
+* Learning languages - Currently improving Vietnamese, Mandarin and Japanese all at varying rates of speed (read: not very quickly)
 * Playing fighting games on a competitive level (Street Fighter, Tekken)

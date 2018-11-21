@@ -1,18 +1,21 @@
-## Your Name
+## Michael Nguyen
+I am an ambitious and team-orientated Full Stack Junior Developer, looking for a role where I can consolidate and extend my programming knowledge, while also gaining exposure to business analytics. 
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
-
+After teaching for a year in Cambridge, I spent a few months privately tutoring to discover what my real interests were and , and thus I decided to embark on a journey to code at Makers Academy, a 16 week software development bootcamp. My experience at Makers Academy allowed to engineer the best coding practices, and this is my biggest priority in looking for a junior developer role. I'd love to work in a supportive environment where those practices are followed.
 ## Skills
 
-#### This Skill
-
+#### Communicator 
+During my experience as a teacher, I was in constant engagement with my pupils, helping them solve problems using a strong 'hands-on' approach. 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 - Experience
 - Achievements
 - Evidence
+#### Adaptable
 
-#### Another Skill
+#### Agile learner 
+
+#### Ability to work under-pressure
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -23,7 +26,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (26th November to 1st March)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -43,6 +46,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Any other qualifications
 
 ## Experience
+
+#### Interests
+
+#### Contacts
 
 **Company Name** (start_date to end_date)    
 *Your job title*  

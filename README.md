@@ -1,7 +1,7 @@
 ## Michael Nguyen
 I am an ambitious and team-orientated Full Stack Junior Developer, looking for a role where I can consolidate and extend my programming knowledge, while also gaining exposure to business analytics. 
 
-After teaching for a year in Cambridge, I spent a few months privately tutoring to discover what my real interests were and , and thus I decided to embark on a journey to code at Makers Academy, a 16 week software development bootcamp. My experience at Makers Academy allowed to engineer the best coding practices, and this is my biggest priority in looking for a junior developer role. I'd love to work in a supportive environment where those practices are followed.
+After teaching for a year in Cambridge, I spent a few months trying out new hobbies such as travelling and tutoring to discover what I wanted out of a job and what I wanted to achieve and thus, decided to embark on a journey to code at Makers Academy, a 16 week software development bootcamp. My experience at Makers Academy allowed to engineer the best coding practices, and this is my biggest priority in looking for a junior developer role. I'd love to work in a supportive environment where those practices are followed and runs through the companies veins as a business. 
 ## Skills
 
 #### Communicator 
@@ -37,13 +37,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University o9f Cambridge - Homerton college (September 2017 to July 2018)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- PGCE certificate in education with Chemistry specialism.
+- Outstanding
+- Kpop and Homerton society member. 
 
-#### Any other qualifications
+#### University of Reading (start_date to end_date)
+- Bsc Chemistry 
+- 1st Class Honours
+- Chemistry society, Frisbee society and Kick-boxing society. 
 
 ## Experience
 

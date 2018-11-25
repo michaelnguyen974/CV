@@ -37,7 +37,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### University o9f Cambridge - Homerton college (September 2017 to July 2018)
+#### University of Cambridge - Homerton college (September 2017 to July 2018)
 
 - PGCE certificate in education with Chemistry specialism.
 - Outstanding

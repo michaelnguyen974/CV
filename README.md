@@ -7,6 +7,7 @@ After teaching for a year in Cambridge, I spent a few months trying out new hobb
 #### Communicator 
 During my experience as a teacher, I was in constant engagement with my pupils, helping them solve problems using a strong 'hands-on' approach. 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Starting at Makers, FINISH THIS SECTION
 
 - Experience
 - Achievements
@@ -31,6 +32,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
 - Great collaborator [PROVIDE EVIDENCE]
+- 
 
 - OOP, TDD, MVC, DDD
 - Agile/XP

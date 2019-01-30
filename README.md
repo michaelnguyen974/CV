@@ -7,7 +7,7 @@ After teaching for a year in Cambridge, I spent a few months trying out new hobb
 #### Communicator 
 During my experience as a teacher, I was in constant engagement with my pupils, helping them solve problems using a strong 'hands-on' approach. 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-Starting at Makers, FINISH THIS SECTION
+Starting at Makers, we pair program everyday and therefore communicate on an hourly basis with members of the cohort. 
 
 - Experience
 - Achievements
@@ -15,6 +15,7 @@ Starting at Makers, FINISH THIS SECTION
 #### Adaptable
 
 #### Agile learner 
+
 
 #### Ability to work under-pressure
 
@@ -36,24 +37,28 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
+- Ruby, Rails, JavaScript, Node.js
 - RSpec, Jasmine
 
 #### University of Cambridge - Homerton college (September 2017 to July 2018)
 
 - PGCE certificate in education with Chemistry specialism.
-- Outstanding
+- Outstanding 
 - Kpop and Homerton society member. 
 
-#### University of Reading (start_date to end_date)
+#### University of Reading (September 2014 to July 2017)
 - Bsc Chemistry 
 - 1st Class Honours
 - Chemistry society, Frisbee society and Kick-boxing society. 
 
 ## Experience
+**Thurston Community College** (January 2018 to July 2018)    
+Science teacher 
+**Soham Village College** (September 2017 to December 2017)   
+
 
 #### Interests
-
+Football, video games fanatic and avid tech enthusiast. 
 #### Contacts
 
 **Company Name** (start_date to end_date)    

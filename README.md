@@ -6,9 +6,10 @@ I am a chemistry and Cambridge graduate with experience in teaching science., lo
 After teaching for a year in Cambridge, I spent a few months trying out new hobbies such as travelling and tutoring to discover what I wanted out of a job and what I wanted to achieve and thus, decided to embark on a journey to code at Makers Academy, a 16 week software development bootcamp. My experience at Makers Academy allowed to engineer the best coding practices, and this is my biggest priority in looking for a junior developer role. I'd love to work in a supportive environment where those practices are followed and runs through the companies veins as a business. 
 
 ## Projects
-| [Oystercard](https://github.com/michaelnguyen974/finaloystercard)  | [Makers BnB](https://github.com/michaelnguyen974/MakersBnB) | [Bowling scorecard](https://github.com/michaelnguyen974/bowling_challenge) | [JS Testingframework (WIP)](https://github.com/michaelnguyen974/TestFrameWork_JS) | [Final project](https://github.com/michaelnguyen974/orthogonal-quest)
+| [Oystercard](https://github.com/michaelnguyen974/finaloystercard)  | [Acebook](https://github.com/michaelnguyen974/acebook-Justice_Moo) | [Bowling scorecard](https://github.com/michaelnguyen974/bowling_challenge) | [JS Testingframework (WIP)](https://github.com/michaelnguyen974/TestFrameWork_JS) | [Final project](https://github.com/michaelnguyen974/orthogonal-quest)
 |-------------| -----------|-------------------------| ---- | ------------ |
-| First OOD/TDD pair project at Makers, modelling a basic Oystercard system - see how far I've come!   | Group project to build a MakersBnB clone in a week, a Ruby app built with Sinatra, a minimal framework       | Bowling scorecard weekend challenge, built with Javascript and Jasmine testing framework| Custom made javascript testing framework, will continue to update to include various matchers | Final project at Makers Academy - a top-down, adventure game written in Python using the PyGame library
+| First OOD/TDD pair project at Makers, modelling a basic Oystercard system | Group project to build a Facebook clone in 10 days, a Ruby app built in Rails for the backend and HTML/CSS for the frontend   | Bowling scorecard weekend challenge, built with Javascript and Jasmine testing framework| Custom made javascript testing framework, will continue to update to include various matchers | Final group project at Makers Academy - a top-down, adventure game written in Python using the PyGame library
+
 ## Skills
 
 #### Communication and Team-Orientated 
@@ -68,7 +69,10 @@ Taught tertiary sciences up to GCSE
 
 - Worked on the science curriculum for GCSE students and was in charge of marking mock papers and distrubution
 
-- Helped organise parent's evenings and lead feeedback to GCSE students
+- Taught students from year 7 to year 11 in biology, chemistry and physics. This included laboratory work and intensive planning in terms of the safety aspects in which a COSHH form had to be filled out at all times to ensure the chemicals were of a low enough concentration so that they could be handled by the students. 
+
+- Helped organise parent's evenings and lead feeedback to GCSE students after school
+
 
 ## Interests
 

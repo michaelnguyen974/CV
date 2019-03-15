@@ -52,7 +52,7 @@ I am creative thinker, which allows me to think of multiple solutions to solving
 ## Experience
 **Thurston Community College** (January 2018 to July 2018)    
 *Science teacher*
-Taught all three sciences up to GCSE and Chemistry to A-level
+Taught tertiary sciences up to GCSE and Chemistry to A-level
 
 - Helped develop the curriculum in the science department which was adapted to the new specifications set out by OfQual in the AQA syllabus. Suggested different strategies of teaching using the modern techniques of pedagogy.
 
@@ -64,6 +64,7 @@ Taught all three sciences up to GCSE and Chemistry to A-level
 
 **Soham Village College** (September 2017 to December 2017)  
 *Science teacher*
+Taught tertiary sciences up to GCSE
 
 - Worked on the science curriculum for GCSE students and was in charge of marking mock papers and distrubution
 

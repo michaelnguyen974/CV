@@ -56,7 +56,7 @@ Taught tertiary sciences up to GCSE and Chemistry to A-level
 
 - Helped develop the curriculum in the science department which was adapted to the new specifications set out by OfQual in the AQA syllabus. Suggested different strategies of teaching using the modern techniques of pedagogy.
 
-- Presented pedagogical ideas in front of all teachers at the school
+- Presented pedagogical ideas in front of all teachers at the school, which was amassive achievement in terms of helping the school look at problems 
 
 - Helped organise parent's evenings and lead feeedback to A-level students
 

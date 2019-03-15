@@ -73,3 +73,4 @@ Taught tertiary sciences up to GCSE
 ## Interests
 
 Football, video games fanatic and avid tech enthusiast. 
+Love having a drink up (especially after an intense week at Makers).

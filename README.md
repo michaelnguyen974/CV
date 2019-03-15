@@ -1,5 +1,5 @@
 ## Michael Nguyen
-[Skills](#Skills) | [Projects](#Projects) | [Education](#Education) | [Education](#Education) | [Experience](#Experience) |  [Interests](#Interests)
+[Skills](#Skills) | [Projects](#Projects) | [Education](#Education) | [Experience](#Experience) |  [Interests](#Interests)
 
 I am an ambitious and team-orientated Full Stack Junior Developer, looking for a role where I can consolidate and extend my programming knowledge, while also gaining exposure to business analytics. 
 

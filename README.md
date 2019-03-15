@@ -61,6 +61,7 @@ Taught all three sciences up to GCSE and Chemistry to A-level
 - Helped organise parent's evenings and lead feeedback to A-level students
 
 - Responsible for leading lunch-time science sessions for students who are avid learners of science, by carrying out fun experiments whilst adhering to all safety standards.
+
 **Soham Village College** (September 2017 to December 2017)  
 *Science teacher*
 
@@ -71,5 +72,3 @@ Taught all three sciences up to GCSE and Chemistry to A-level
 ## Interests
 
 Football, video games fanatic and avid tech enthusiast. 
-
-

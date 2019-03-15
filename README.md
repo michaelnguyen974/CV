@@ -7,7 +7,7 @@ After teaching for a year in Cambridge, I spent a few months trying out new hobb
 
 ## Projects
 | [Oystercard](https://github.com/michaelnguyen974/finaloystercard)  | [Makers BnB](https://github.com/michaelnguyen974/MakersBnB) | [Bowling scorecard](https://github.com/michaelnguyen974/bowling_challenge) | [JS Testingframework (WIP)](https://github.com/michaelnguyen974/TestFrameWork_JS) | [Final project](https://github.com/michaelnguyen974/orthogonal-quest)
-|-------------| -----------|-------------------------| ---- |
+|-------------| -----------|-------------------------| ---- | --- |
 | First OOD/TDD pair project at Makers, modelling a basic Oystercard system - see how far I've come!   | Group project to build a MakersBnB clone in a week, a Ruby app built with Sinatra, a minimal framework       | Bowling scorecard weekend challenge, built with Javascript and Jasmine testing framework| Custom made javascript testing framework, will continue to update to include various matchers |
 ## Skills
 

@@ -12,22 +12,20 @@ After teaching for a year in Cambridge, I spent a few months trying out new hobb
 ## Skills
 
 #### Communication and Team-Orientated 
-I am strong team-player coupled with an adaptive mindset - meaning I can lead teams in conjuction with pairing and learning individually. I am natural at setting priorities as well as understanding team cohesion towards those priorities. I make sure all team-members feel valued, and ensure that the that problems get resolved efficiently. 
+I am strong team-player coupled with an adaptive mindset - meaning I can lead teams in conjuction with pairing and learning individually. I am natural at setting priorities as well as understanding team cohesion towards those priorities. I make sure all team-members feel valued, and ensure that the that problems get resolved efficiently
 
 - During the final project at Makers, I gathered all members of the team and organised the stand-ups and retros, as well as leading the planning phases of the project. I always made sure to get feedback from all members on any feature of the project, and always considered how each member felt to raise the morale
 
-- The communication skills I learned as a teacher allowed me to adapt the way I approached each member, whilst making sure that when we were working on features, everyone checked up on each other on which stage each memebr was at, and how they were getting on - something I consider to be of utmost importance as this keeps everyone well-informed and good practice for working in agile environments.
+- The communication skills I learned as a teacher allowed me to adapt the way I approached each member, whilst making sure that when we were working on features, everyone checked up on each other on which stage each memebr was at, and how they were getting on - something I consider to be of utmost importance as this keeps everyone well-informed and good practice for working in agile environments
 
-- At Soham Village College, I worked on the science curriculum for GCSE students and this was implemented across all sciences.
+- At Soham Village College, I worked on the science curriculum for GCSE students and this was implemented across all sciences
 
 #### Analysis and Problem solving 
-I am creative thinker, which allows me to think of multiple solutions to solving a given problem. My process for working through coding situations is incremental - meaning I take granular steps when using a particular method and rule out hypotheses. 
+I am creative thinker, which allows me to think of multiple solutions to solving a given problem. My process for working through coding situations is incremental - meaning I take granular steps when using a particular method and rule out hypotheses
 
-- In my chemistry degree, I had numerous individual projects where I had to utilise limited resources such as chemicals to gather all my results for a given chemical reaction, which enabled me to rationally analyse what my priorities were and how I could make key decisions to reach my goal.
+- In my chemistry degree, I had numerous individual projects where I had to utilise limited resources such as chemicals to gather all my results for a given chemical reaction, which enabled me to rationally analyse what my priorities were and how I could make key decisions to reach my goal
 
-- I break down coding problems as granular as possible, using TDD, modelling and user stories. 
-#### Independent learner 
-
+- I break down coding problems as granular as possible, using TDD, modelling and user stories
 
 ## Education
 
@@ -42,21 +40,33 @@ I am creative thinker, which allows me to think of multiple solutions to solving
 
 - PGCE certificate in education with Chemistry specialism.
 - Outstanding 
-- Kpop and Homerton society member. 
+- Kpop and Homerton society member
 
 #### University of Reading (September 2014 to July 2017)
+
 - Bsc Chemistry 
 - 1st Class Honours
-- Chemistry society, Frisbee society and Kick-boxing society. 
-- Accolades: physical chemistry laboratory module award for averaging 95%. 
+- Chemistry society, Frisbee society and Kick-boxing society
+- Accolades: physical chemistry laboratory module award for averaging 95%
 
 ## Experience
 **Thurston Community College** (January 2018 to July 2018)    
 *Science teacher*
-Taught all three sciences up to GCSE and Chemistry to A-level. 
-- Helped develop the curriculum in the science department which was adapted to the new specifications set out by OfQual in the AQA syllabus. Suggested different strategies of teaching using the modern techniques of pedagogy
-**Soham Village College** (September 2017 to December 2017)   
+Taught all three sciences up to GCSE and Chemistry to A-level
 
+- Helped develop the curriculum in the science department which was adapted to the new specifications set out by OfQual in the AQA syllabus. Suggested different strategies of teaching using the modern techniques of pedagogy.
+
+- Presented pedagogical ideas in front of all teachers at the school
+
+- Helped organise parent's evenings and lead feeedback to A-level students
+
+- Responsible for leading lunch-time science sessions for students who are avid learners of science, by carrying out fun experiments whilst adhering to all safety standards.
+**Soham Village College** (September 2017 to December 2017)  
+*Science teacher*
+
+- Worked on the science curriculum for GCSE students and was in charge of marking mock papers and distrubution
+
+- Helped organise parent's evenings and lead feeedback to GCSE students
 
 ## Interests
 

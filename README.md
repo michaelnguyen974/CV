@@ -1,7 +1,7 @@
 ## Michael Nguyen
 [Skills](#Skills) | [Projects](#Projects) | [Education](#Education) | [Experience](#Experience) |  [Interests](#Interests)
 
-I am a chemistry and Cambridge graduate with experience in teaching science., looking for a role where I can consolidate and extend my programming knowledge, while also gaining exposure to business analytics. 
+I am a chemistry and Cambridge graduate with experience in teaching science., looking for a role where I can consolidate and extend my programming knowledge and agile working capabilities.
 
 After teaching for a year in Cambridge, I spent a few months trying out new hobbies such as travelling and tutoring to discover what I wanted out of a job and what I wanted to achieve and thus, decided to embark on a journey to code at Makers Academy, a 16 week software development bootcamp. My experience at Makers Academy allowed to engineer the best coding practices, and this is my biggest priority in looking for a junior developer role. I'd love to work in a supportive environment where those practices are followed and runs through the companies veins as a business. 
 

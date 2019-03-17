@@ -80,3 +80,6 @@ Taught tertiary sciences up to GCSE
 
 Football, video games fanatic and avid tech enthusiast. 
 Love having a drink up (especially after an intense week at Makers).
+
+## Contact Me 
+michaelnguyen974@gmail.com

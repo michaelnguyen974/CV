@@ -1,5 +1,5 @@
 ## Michael Nguyen
-[Skills](#Skills) | [Projects](#Projects) | [Education](#Education) | [Experience](#Experience) |  [Interests](#Interests) | [Contact Me](#Contact Me)
+[Skills](#Skills) | [Projects](#Projects) | [Education](#Education) | [Experience](#Experience) |  [Interests](#Interests) | [Contact](#Contact)
 
 I am a Chemistry and Cambridge graduate with experience in teaching science., looking for a role where I can consolidate and extend my programming knowledge and agile working capabilities.
 
@@ -81,5 +81,5 @@ Taught tertiary sciences up to GCSE
 Football, video games fanatic and avid tech enthusiast. 
 Love having a drink up (especially after an intense week at Makers).
 
-## Contact Me 
+## Contact 
 michaelnguyen974@gmail.com

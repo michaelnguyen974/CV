@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://twitter.com/fake_roogle">
 <img src="http://goinkscape.com/wp-content/uploads/2015/07/twitter-logo-final.png" alt="twitter" hspace="50" height="42" width="42"></a>
-<a href="https://medium.com/@defc0nONE">
+<a href="https://medium.com/@michaelnguyen_37020">
 <img src="http://www.webmasto.com/wp-content/uploads/2017/08/Medium-App-Icon-2017.png" alt="medium" hspace="50" height="42" width="42"></a>
 
 <a href="https://www.linkedin.com/in/christopher-ly-83121619/">

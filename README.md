@@ -3,6 +3,9 @@
   
 <a href="https://medium.com/@michaelnguyen_37020">
 <img src="http://www.webmasto.com/wp-content/uploads/2017/08/Medium-App-Icon-2017.png" alt="medium" hspace="50" height="42" width="42"></a>
+
+<a href="https://www.linkedin.com/in/michael-nguyen-71101610a/">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
   
 [Skills](#Skills) | [Projects](#Projects) | [Education](#Education) | [Experience](#Experience) |  [Interests](#Interests) | [Contact](#Contact)
 

@@ -1,4 +1,6 @@
-## Michael Nguyen
+<h1 align="center">Michael Nguyen</h1>
+<p align="center">
+  
 [Skills](#Skills) | [Projects](#Projects) | [Education](#Education) | [Experience](#Experience) |  [Interests](#Interests) | [Contact](#Contact)
 
 I am a Chemistry and Cambridge graduate with experience in teaching science., looking for a role where I can consolidate and extend my programming knowledge and agile working capabilities.

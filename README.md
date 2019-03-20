@@ -1,6 +1,9 @@
 <h1 align="center">Michael Nguyen</h1>
 <p align="center">
   
+<a href="https://medium.com/@michaelnguyen_37020">
+<img src="http://www.webmasto.com/wp-content/uploads/2017/08/Medium-App-Icon-2017.png" alt="medium" hspace="50" height="42" width="42"></a>
+  
 [Skills](#Skills) | [Projects](#Projects) | [Education](#Education) | [Experience](#Experience) |  [Interests](#Interests) | [Contact](#Contact)
 
 I am a Chemistry and Cambridge graduate with experience in teaching science., looking for a role where I can consolidate and extend my programming knowledge and agile working capabilities.

@@ -21,7 +21,7 @@ I'd love to work in a supportive environment where those practices are followed 
 | [Justice-Moo Acebook (facebook)](https://github.com/michaelnguyen974/acebook-Justice_Moo) | Group project to build a Facebook clone in 10 days, a Ruby app built in Rails for the backend and HTML/CSS for the frontend  | 2 weeks | Ruby on Rails, HTML/CSS, JavaScript, PostgreSQL,  Heroku | RSpec, Capybara, Travis,  Selenium-Webdriver |
 | [Bowling scorecard](https://github.com/michaelnguyen974/bowling_challenge) |Bowling scorecard weekend challenge, built with Javascript and Jest testing framework with a lovely test suite for possible cases you would see in a normal bowling game. Currently has all backend logic of a completed bowling game.  | 2 days | JavaScript | Jest | 
 | [JS Testingframework (WIP)](https://github.com/michaelnguyen974/TestFrameWork_JS) |Custom made javascript testing framework, will continue to update to include various matchers | 2 days | JavaScript | Custom Testing Suite |
-| [Instagram clone)](https://github.com/michaelnguyen974/instagram-challenge) |Instagram clone which allows users to post pictures and create comments on those pictures | 2 days | Ruby, Ruby on Rails | RSpec, Capybara  |
+| [Instagram clone](https://github.com/michaelnguyen974/instagram-challenge) |Instagram clone which allows users to post pictures and create comments on those pictures | 2 days | Ruby, Ruby on Rails | RSpec, Capybara  |
 | [Final project](https://github.com/michaelnguyen974/orthogonal-quest) |Final group project at Makers Academy - a top-down, adventure game written in Python using the PyGame library | 10 days | Python, Pygame | PyTest |
 
 ## Skills

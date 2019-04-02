@@ -15,11 +15,6 @@ After teaching for a year in Cambridge, I spent a few months trying out new hobb
 
 I'd love to work in a supportive environment where those practices are followed and runs through the companies veins as a business. 
 
-## Projects
-| [Oystercard](https://github.com/michaelnguyen974/finaloystercard)  | [Acebook](https://github.com/michaelnguyen974/acebook-Justice_Moo) | [Bowling scorecard](https://github.com/michaelnguyen974/bowling_challenge) | [JS Testingframework (WIP)](https://github.com/michaelnguyen974/TestFrameWork_JS) | [Final project](https://github.com/michaelnguyen974/orthogonal-quest)
-|-------------| -----------|-------------------------| ---- | ------------ |
-| First OOD/TDD pair project at Makers, modelling a basic Oystercard system | Group project to build a Facebook clone in 10 days, a Ruby app built in Rails for the backend and HTML/CSS for the frontend   | Bowling scorecard weekend challenge, built with Javascript and Jasmine testing framework| Custom made javascript testing framework, will continue to update to include various matchers | Final group project at Makers Academy - a top-down, adventure game written in Python using the PyGame library
-
 ## Projects 
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|

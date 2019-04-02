@@ -20,6 +20,15 @@ I'd love to work in a supportive environment where those practices are followed 
 |-------------| -----------|-------------------------| ---- | ------------ |
 | First OOD/TDD pair project at Makers, modelling a basic Oystercard system | Group project to build a Facebook clone in 10 days, a Ruby app built in Rails for the backend and HTML/CSS for the frontend   | Bowling scorecard weekend challenge, built with Javascript and Jasmine testing framework| Custom made javascript testing framework, will continue to update to include various matchers | Final group project at Makers Academy - a top-down, adventure game written in Python using the PyGame library
 
+## Projects 
+| Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
+|--|--|--|--|--|
+| [OysterCard](https://github.com/michaelnguyen974/finaloystercard) | First OOD/TDD pair project at Makers, modelling a basic Oystercard system which utilises 3 classes and displays good core coding principles. | 1 week | Ruby | RSpec |
+| [Justice-Moo Acebook (facebook)](https://github.com/michaelnguyen974/acebook-Justice_Moo) | Group project to build a Facebook clone in 10 days, a Ruby app built in Rails for the backend and HTML/CSS for the frontend  | 2 weeks | Ruby on Rails, HTML/CSS, JavaScript, PostgreSQL,  Heroku | RSpec, Capybara, Travis,  Selenium-Webdriver |
+| [Bowling scorecard](https://github.com/michaelnguyen974/bowling_challenge) |Bowling scorecard weekend challenge, built with Javascript and Jest testing framework with a lovely test suite for possible cases you would see in a normal bowling game. Currently has all backend logic of a completed bowling game.  | 2 days | JavaScript | Jest | 
+| [JS Testingframework (WIP)](https://github.com/michaelnguyen974/TestFrameWork_JS) |Custom made javascript testing framework, will continue to update to include various matchers | 2 days | JavaScript | Custom Testing Suite |
+| [Final project](https://github.com/michaelnguyen974/orthogonal-quest) |Final group project at Makers Academy - a top-down, adventure game written in Python using the PyGame library | 10 days | Python, Pygame | PyTest |
+
 ## Skills
 
 #### Communication and Team-Orientated 

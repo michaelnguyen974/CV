@@ -53,7 +53,7 @@ I am creative thinker, which allows me to think of multiple solutions to solving
 #### University of Cambridge - Homerton college (September 2017 to July 2018)
 
 - PGCE certificate in education with Chemistry specialism.
-- Outstanding 
+- Outstanding OFSTED inspection when observed
 - Kpop and Homerton society member
 
 #### University of Reading (September 2014 to July 2017)

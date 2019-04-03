@@ -46,11 +46,16 @@ I am creative thinker, which allows me to think of multiple solutions to solving
 ## Education
 
 #### Makers Academy (26th November to 1st March)
+- Acquired best practices in needed industry skills such as agile, TDD and XP
+- Understand and can apply core foundations of coding such as SOLID and DRY 
+- Always striving to write clean, readable and efficient code
+- Love picking up new technologies when applicable
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, Vanilla JavaScript, Node.js, Python, PyGame
-- RSpec, Jasmine, Jest
+- Languages: Ruby, JavaScript, Python, HTML/CSS
+    - Web Frameworks: Sinatra, Ruby on Rails, node.js
+    - Databases: PostgreSQL
+    - Testing Suites: RSpec, Capybara, Selenium-Webdriver, Jasmine, Jest
+    - CI/CD: Travis CI, CodeClimate, Heroku
 
 #### University of Cambridge - Homerton college (September 2017 to July 2018)
 

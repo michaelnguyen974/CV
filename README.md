@@ -22,7 +22,7 @@ I'd love to work in a supportive environment where those practices are followed 
 | [Bowling scorecard](https://github.com/michaelnguyen974/bowling_challenge) |Bowling scorecard weekend challenge, built with Javascript and Jest testing framework with a lovely test suite for possible cases you would see in a normal bowling game. Currently has all backend logic of a completed bowling game.  | 2 days | JavaScript | Jest | 
 | [JS Testingframework (WIP)](https://github.com/michaelnguyen974/TestFrameWork_JS) |Custom made javascript testing framework, will continue to update to include various matchers | 2 days | JavaScript | Custom Testing Suite |
 | [Instagram clone](https://github.com/michaelnguyen974/instagram-challenge) |Instagram clone which allows users to post pictures and create comments on those pictures | 2 days | Ruby, Ruby on Rails | RSpec, Capybara  |
-| [Final project](https://github.com/michaelnguyen974/orthogonal-quest) |Final group project at Makers Academy - a top-down, adventure game written in Python using the PyGame library | 10 days | Python, Pygame | PyTest |
+| [Final project](https://github.com/michaelnguyen974/orthogonal-quest) |Final group project at Makers Academy - a top-down, adventure game written in Python using the PyGame library. This project was not TDD'ed as such, as we as a team were found it notoriously difficult to feature test, so we manually tested the game throughout to ensure the behaviours worked as intended | 10 days | Python, Pygame | PyTest |
 
 ## Skills
 

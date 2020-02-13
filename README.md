@@ -11,9 +11,9 @@
 
 I am a Backend Junior Developer, looking for a role where I can consolidate and extend my programming knowledge and agile working capabilities to aid the current digital globalisation in the UK.
 
-Working for Deloitte UK has been both challenging and fulfilling; from interacting with public sector clients to delivering quality work to high profile private sector clients. My experience at Deloitte and Makers Academy allowed me to engineer the best coding practices, and this is my biggest priority in looking for a developer role. 
+Working for Deloitte UK has been both challenging and fulfilling; from interacting with public sector clients to delivering quality work to high profile private sector clients. My experience at Deloitte and Makers Academy allowed me to engineer the best coding practices, and this is my biggest priority in looking for a developer role.
 
-I'd love to work in a supportive environment where those practices are followed and runs through the companies veins as a business. 
+I'd love to work in a supportive environment where those practices are followed and runs through the companies veins as a business.
 
 ## Projects 
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
@@ -27,30 +27,28 @@ I'd love to work in a supportive environment where those practices are followed 
 
 ## Skills
 
-#### Communication and Team-Orientated 
-I am strong team-player coupled with an adaptive mindset - meaning I can lead teams in conjuction with pairing and learning individually. I am natural at setting priorities as well as understanding team cohesion towards those priorities. I make sure all team-members feel valued, and ensure that the that problems get resolved efficiently
+#### Communication and Team-orientated 
+I am strong team-player coupled with an adaptive mindset - meaning I can lead teams in conjuction with pairing and learning individually. I am natural at setting priorities as well as understanding team cohesion towards those priorities. I make sure all team-members feel valued, and ensure that the that problems get resolved efficiently.
+
+- At Deloitte UK, I worked with a range of teams, from large agile teams of 15 developers to small agile teams with 4 developers. I always maintained an excellent relationship with each team I worked with - I remain on excellent terms with all of them. I also have an excellent relationship with more senior staff and other stakeholders within the firm. 
 
 - During the final project at Makers, I gathered all members of the team and organised the stand-ups and retros, as well as leading the planning phases of the project. I always made sure to get feedback from all members on any feature of the project, and always considered how each member felt to raise the morale
 
 - The communication skills I learned as a teacher allowed me to adapt the way I approached each member, whilst making sure that when we were working on features, everyone checked up on each other on which stage each memebr was at, and how they were getting on - something I consider to be of utmost importance as this keeps everyone well-informed and good practice for working in agile environments
 
-- At Soham Village College, I worked on the science curriculum for GCSE students and this was implemented across all sciences
-
-#### Problem solving 
-I am creative thinker, which allows me to think of out of the box when solving a given problem. My process for working through coding situations is incremental - meaning I take granular steps when using a particular method and rule out hypotheses
+#### Analytical and Problem solving 
+I am creative thinker, which allows me to think of out of the box when solving a given problem. My process for working through coding situations is incremental - meaning I take granular steps when using a particular method and rule out hypotheses.
 
 - I break down coding problems as granular as possible, using TDD, modelling and user stories
 
-- I am 
-
-- In my chemistry degree, I had numerous individual projects where I had to utilise limited resources such as chemicals to gather all my results for a given chemical reaction, which enabled me to rationally analyse what my priorities were and how I could make key decisions to reach my goal
+- I am adept to learning quickly, as shown in my previous roles at Deloitte - such as having to learn Hybris and pick up E2E testing whilst stepping into a role of responsibility at an early stage in my career
 
 ## Experience
 **Deloitte UK** (June 2018 - current)
 *Software developer*
-Worked on various projects which involved building eCommerce and web applications in Java and Hybris. In addition, I took on responsibility as an automation lead for the development team - writing technical designs for other developers on how to test the website in E2E testing using Selenium
+Worked on various projects which involved building eCommerce and web applications in Java and Hybris. In addition, I took on responsibility as an automation lead for the development team - writing technical designs for other developers on how to test the website in E2E testing using Selenium. Furthermore, I have also worked on defects in the code and made sure to TDD these at all times. 
 
-Worked in Agile teams which utilised kanban boards, scrum, daily standups and fortnightly retros. I am currently studying towards the Java 11 1Z0-815 Programmer I examination in order to become Java certified whilst working full-time
+Worked in Agile teams which utilised kanban boards, scrum, daily standups and fortnightly retros. I am currently studying towards the Java 11 1Z0-815 Programmer I examination in order to become Java certified whilst working full-time.
 
 Technologies:
 - Java

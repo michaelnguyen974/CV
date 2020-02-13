@@ -44,6 +44,8 @@ I am creative thinker, which allows me to think of out of the box when solving a
 
 - I am adept to learning quickly, as shown in my previous roles at Deloitte - such as having to learn Hybris and pick up E2E testing whilst stepping into a role of responsibility at an early stage in my career
 
+- I am not afraid of asking questions to senior developers, picking their brains to understand design patterns and the best coding practices when approaching particular problems
+
 ## Experience
 **Deloitte UK** (June 2018 - current)
 *Software developer*

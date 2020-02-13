@@ -9,9 +9,9 @@
   
 [Skills](#Skills) | [Projects](#Projects) | [Education](#Education) | [Experience](#Experience) |  [Interests](#Interests) | [Contact](#Contact)
 
-I am a Chemistry and Cambridge graduate with experience in teaching science., looking for a role where I can consolidate and extend my programming knowledge and agile working capabilities.
+I am a Backend Junior Developer, looking for a role where I can consolidate and extend my programming knowledge and agile working capabilities to aid the current digital globalisation in the UK.
 
-After teaching for a year in Cambridge, I spent a few months trying out new hobbies such as travelling and tutoring to discover what I wanted out of a job and what I wanted to achieve and thus, decided to embark on a journey to code at Makers Academy, a 16 week software development bootcamp. My experience at Makers Academy allowed to engineer the best coding practices, and this is my biggest priority in looking for a junior developer role. 
+Working for Deloitte UK has been both challenging and fulfilling; from interacting with public sector clients to delivering quality work to high profile private sector clients. My experience at Deloitte and Makers Academy allowed me to engineer the best coding practices, and this is my biggest priority in looking for a developer role. 
 
 I'd love to work in a supportive environment where those practices are followed and runs through the companies veins as a business. 
 
@@ -36,16 +36,64 @@ I am strong team-player coupled with an adaptive mindset - meaning I can lead te
 
 - At Soham Village College, I worked on the science curriculum for GCSE students and this was implemented across all sciences
 
-#### Analysis and Problem solving 
-I am creative thinker, which allows me to think of multiple solutions to solving a given problem. My process for working through coding situations is incremental - meaning I take granular steps when using a particular method and rule out hypotheses
-
-- In my chemistry degree, I had numerous individual projects where I had to utilise limited resources such as chemicals to gather all my results for a given chemical reaction, which enabled me to rationally analyse what my priorities were and how I could make key decisions to reach my goal
+#### Problem solving 
+I am creative thinker, which allows me to think of out of the box when solving a given problem. My process for working through coding situations is incremental - meaning I take granular steps when using a particular method and rule out hypotheses
 
 - I break down coding problems as granular as possible, using TDD, modelling and user stories
 
+- I am 
+
+- In my chemistry degree, I had numerous individual projects where I had to utilise limited resources such as chemicals to gather all my results for a given chemical reaction, which enabled me to rationally analyse what my priorities were and how I could make key decisions to reach my goal
+
+## Experience
+**Deloitte UK** (June 2018 - current)
+*Software developer*
+Worked on various projects which involved building eCommerce and web applications in Java and Hybris. In addition, I took on responsibility as an automation lead for the development team - writing technical designs for other developers on how to test the website in E2E testing using Selenium
+
+Worked in Agile teams which utilised kanban boards, scrum, daily standups and fortnightly retros. I am currently studying towards the Java 11 1Z0-815 Programmer I examination in order to become Java certified whilst working full-time
+
+Technologies:
+- Java
+- Hybris
+
+Frameworks:
+- Spring/SpringMVC/SpringBoot
+- Selenium (Java)
+- JUnit 
+
+Tools: 
+- Docker
+- Jenkins
+- Maven
+- Git
+- IntelliJ
+- Jira/Confluence
+
+**Thurston Community College** (January 2018 to July 2018)    
+*Science teacher*
+Taught tertiary sciences up to GCSE and Chemistry to A-level
+
+- Helped develop the curriculum in the science department which was adapted to the new specifications set out by OfQual in the AQA syllabus. Suggested different strategies of teaching using the modern techniques of pedagogy.
+
+- Presented pedagogical ideas in front of all teachers at the school, which was amassive achievement in terms of helping the school look at problems 
+
+- Helped organise parent's evenings and lead feeedback to A-level students
+
+- Responsible for leading lunch-time science sessions for students who are avid learners of science, by carrying out fun experiments whilst adhering to all safety standards
+
+**Soham Village College** (September 2017 to December 2017)  
+*Science teacher*
+Taught tertiary sciences up to GCSE
+
+- Worked on the science curriculum for GCSE students and was in charge of marking mock papers and distrubution
+
+- Taught students from year 7 to year 11 in biology, chemistry and physics. This included laboratory work and intensive planning in terms of the safety aspects in which a COSHH form had to be filled out at all times to ensure the chemicals were of a low enough concentration so that they could be handled by the students
+
+- Helped organise parent's evenings and lead feeedback to GCSE students after school
+
 ## Education
 
-#### Makers Academy (26th November to 1st March)
+#### Makers Academy (November 2018 to March 2019)
 - Acquired best practices in needed industry skills such as agile, TDD and XP
 - Understand and can apply core foundations of coding such as SOLID and DRY 
 - Always striving to write clean, readable and efficient code
@@ -59,7 +107,7 @@ I am creative thinker, which allows me to think of multiple solutions to solving
 
 #### University of Cambridge - Homerton college (September 2017 to July 2018)
 
-- PGCE certificate in education with Chemistry specialism.
+- PGCE certificate in education with Chemistry specialism
 - Outstanding OFSTED inspection when observed
 - Kpop and Homerton society member
 
@@ -70,34 +118,10 @@ I am creative thinker, which allows me to think of multiple solutions to solving
 - Chemistry society, Frisbee society and Kick-boxing society
 - Accolades: physical chemistry laboratory module award for averaging 95%
 
-## Experience
-**Thurston Community College** (January 2018 to July 2018)    
-*Science teacher*
-Taught tertiary sciences up to GCSE and Chemistry to A-level
-
-- Helped develop the curriculum in the science department which was adapted to the new specifications set out by OfQual in the AQA syllabus. Suggested different strategies of teaching using the modern techniques of pedagogy.
-
-- Presented pedagogical ideas in front of all teachers at the school, which was amassive achievement in terms of helping the school look at problems 
-
-- Helped organise parent's evenings and lead feeedback to A-level students
-
-- Responsible for leading lunch-time science sessions for students who are avid learners of science, by carrying out fun experiments whilst adhering to all safety standards.
-
-**Soham Village College** (September 2017 to December 2017)  
-*Science teacher*
-Taught tertiary sciences up to GCSE
-
-- Worked on the science curriculum for GCSE students and was in charge of marking mock papers and distrubution
-
-- Taught students from year 7 to year 11 in biology, chemistry and physics. This included laboratory work and intensive planning in terms of the safety aspects in which a COSHH form had to be filled out at all times to ensure the chemicals were of a low enough concentration so that they could be handled by the students. 
-
-- Helped organise parent's evenings and lead feeedback to GCSE students after school
-
-
 ## Interests
 
-Football, video games fanatic and avid tech enthusiast. 
-Love having a drink up (especially after an intense week at Makers).
+Football, video games fanatic and avid tech enthusiast
+Love having a drink up (especially after an intense week at Makers)
 
 ## Contact 
 michaelnguyen974@gmail.com

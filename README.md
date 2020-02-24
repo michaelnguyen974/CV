@@ -123,7 +123,7 @@ Taught tertiary sciences up to GCSE
 ## Interests
 
 Football, video games fanatic and avid tech enthusiast
-Love having a drink up (especially after an intense week at Makers)
+Love having a drink with colleagues
 
 ## Contact 
 michaelnguyen974@gmail.com

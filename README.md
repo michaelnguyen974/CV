@@ -47,7 +47,7 @@ I am creative thinker, which allows me to think of out of the box when solving a
 - I am not afraid of asking questions to senior developers, picking their brains to understand design patterns and the best coding practices when approaching particular problems
 
 ## Experience
-**Deloitte UK** (June 2018 - current)
+**Deloitte UK** (June 2019 - current)
 *Software developer*
 Worked on various projects which involved building eCommerce and web applications in Java and Hybris. In addition, I took on responsibility as an automation lead for the development team - writing technical designs for other developers on how to test the website in E2E testing using Selenium. Furthermore, I have also worked on defects in the code and made sure to TDD these at all times. 
 

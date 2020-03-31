@@ -55,8 +55,9 @@ Worked in Agile teams which utilised kanban boards, scrum, daily standups and fo
 
 Technologies:
 - Java
+- Node.js
 - Hybris
-- AWS Lambda, API Gateway, AWS Cloudwatch
+- AWS Lambda
 
 Frameworks:
 - Spring/SpringMVC/SpringBoot
